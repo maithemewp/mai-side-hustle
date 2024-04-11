@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'maithemewp/mai-side-hustle',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-develop',
+        'version' => 'dev-develop',
+        'reference' => '7285e55b8efb15da279296c6f3e7169bf3e15bb1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -28,9 +28,9 @@
             'dev_requirement' => false,
         ),
         'maithemewp/mai-side-hustle' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-develop',
+            'version' => 'dev-develop',
+            'reference' => '7285e55b8efb15da279296c6f3e7169bf3e15bb1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

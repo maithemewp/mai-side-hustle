@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Mai Side-hustle theme.
+ * Mai Side Hustle theme.
  *
- * @package   BizBudding\MaiSide-hustle
+ * @package   BizBudding\MaiSideHustle
  * @link      https://bizbudding.com/
  * @author    BizBudding
  * @copyright Copyright © 2020 BizBudding
